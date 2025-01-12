@@ -125,7 +125,7 @@ def querymessage(msg):
     return response.json()
 querymessage(personality)
 while True:
-    print("Press '/' to speak")
+    print("Hold '/' to speak")
     record()
     # usertxt = str(input("User: "))
     usertxt = transcribe()
