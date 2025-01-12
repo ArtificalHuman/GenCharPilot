@@ -158,7 +158,7 @@ setcharacter(personality)  # Call setcharacter outside the loop
 
 while True:
     try:
-        print("Press '/' to speak")
+        print("Hold '/' to speak")
         record()
         # prompt = str(input("User: "))
         prompt = transcribe()
