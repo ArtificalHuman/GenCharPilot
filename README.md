@@ -41,3 +41,4 @@ To add new characters, modify the `characters.json` file. The structure should l
         ]
     }
 }
+```
